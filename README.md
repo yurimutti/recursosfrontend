@@ -154,6 +154,8 @@ Link | Descrição | Grátis |
 | [InfinityFree](https://infinityfree.net/) | Hospedagem de sites totalmente gratuita com espaço em disco e largura de banda ilimitados. | Sim | Yes | No |
 | [Netlify](https://www.netlify.com/) | Um fluxo de trabalho intuitivo baseado em Git e uma plataforma sem servidor poderosa para construir, implantar e colaborar em aplicativos da web. | Sim | Yes | No |
 | [Vercel](https://vercel.com/dashboard) | O Vercel combina a melhor experiência do desenvolvedor com um foco obsessivo no desempenho do usuário final. Nossa plataforma permite que as equipes de front-end façam seu melhor trabalho. | Sim | Yes | No |
+| [Render](https://render.com/) | O Render é uma plataforma de hospedagem em nuvem que oferece serviços para implantar, dimensionar e gerenciar aplicativos e sites. Eles oferecem suporte a diversas linguagens de programação, frameworks e bancos de dados. | Sim ou preço sob demanda conforme o consumo | Yes | No |
+| [Railway](https://railway.app/) | O Railway é uma plataforma que facilita a implantação e o gerenciamento de aplicativos da web e serviços back-end. Ele permite que os desenvolvedores publiquem seus aplicativos na nuvem de forma rápida e fácil, oferecendo suporte a uma variedade de tecnologias e frameworks populares. | Sim ou preço sob demanda conforme o consumo | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
